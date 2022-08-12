@@ -76,5 +76,5 @@ package com.generics;
 			System.out.println("First maximum " + listToBeSorted.get(0));
 			System.out.println("Second maximum " + listToBeSorted.get(1));
 			System.out.println("Third maximum " + listToBeSorted.get(2));
-	}	
+	}
 	}
